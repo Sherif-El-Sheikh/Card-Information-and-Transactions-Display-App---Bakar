@@ -7,7 +7,7 @@ This project is a web-based application designed to display card and transaction
 ## Demo
 You may watch the following video demo:
 <video width="320" height="240" controls>
-  <source src="https://github.com/Sherif-El-Sheikh/Card-Information-and-Transactions-Display-App---Bakar/raw/main/assets/Videos/Card%20and%20Transaction%20Demo.mp4" type="video/mp4">
+  <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
