@@ -5,8 +5,10 @@ This project is a web-based application designed to display card and transaction
 >It fetches card details and transactions from an API and presents them in a clean, user-friendly interface.
 
 ## Demo
+You may watch the following video demo:
 
->  you can try the live demo yourself [here]().
+[Pms-Demo.webm](https://github.com/user-attachments/assets/Videos/Card%20and%20Transaction%20Demo.mp4)
+  you can try the live demo yourself [here]().
 
 
 ## Features
