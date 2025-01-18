@@ -6,7 +6,7 @@ This project is a web-based application designed to display card and transaction
 
 ## Demo
 You may watch the following video demo:
-
+![Video Demo](assets/videos/your_video.mp4)
 
 > Or you can try the live demo yourself [here]().
 
