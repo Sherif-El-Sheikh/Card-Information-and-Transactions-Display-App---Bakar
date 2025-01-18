@@ -10,6 +10,7 @@ You may watch the following video demo:
   <source src="/assets/Videos/Card%20and%20Transaction%20Demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+![Video Demo](assets/Videos/Card%20and%20Transaction%20Demo.mp4)
 
 > Or you can try the live demo yourself [here]().
 
