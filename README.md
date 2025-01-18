@@ -7,7 +7,7 @@ This project is a web-based application designed to display card and transaction
 ## Demo
 You may watch the following video demo:
 
-[Pms-Demo.webm](https://github.com/user-attachments/assets/Videos/Card%20and%20Transaction%20Demo.mp4)
+[Card%20and%20Transaction%20Demo.mp4](https://github.com/user-attachments/assets/Videos/Card%20and%20Transaction%20Demo)
   you can try the live demo yourself [here]().
 
 
