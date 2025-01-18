@@ -7,7 +7,7 @@ This project is a web-based application designed to display card and transaction
 ## Demo
 You may watch the following video demo:
 
-[Card and Transaction Demo.mp4](https://github.com/Sherif-El-Sheikh/Card-Information-and-Transactions-Display-App---Bakar/blob/main/assets/Videos/Card%20and%20Transaction%20Demo.mp4)
+[Card and Transaction Demo.mp4](https://github.com/Sherif-El-Sheikh/Card-Information-and-Transactions-Display-App---Bakar/blob/main/public//assets/Videos/Card%20and%20Transaction%20Demo.mp4)
 
  > you can try the live demo yourself [here]().
 
