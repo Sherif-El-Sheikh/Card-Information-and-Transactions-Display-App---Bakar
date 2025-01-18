@@ -6,7 +6,10 @@ This project is a web-based application designed to display card and transaction
 
 ## Demo
 You may watch the following video demo:
-![Video Demo](assets/videos/your_video.mp4)
+<video width="320" height="240" controls>
+  <source src="/assets/videos/your_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 > Or you can try the live demo yourself [here]().
 
