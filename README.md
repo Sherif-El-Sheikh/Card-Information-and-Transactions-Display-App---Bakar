@@ -11,7 +11,7 @@ You may watch the following video demo:
 
 
 ## Live Demo
-  you can try the live demo by yourself   [here](https://card-information-and-transactions.netlify.app/).
+  you can try the live demo by yourself  [here](https://card-information-and-transactions.netlify.app/).
 
 
 ## Features
